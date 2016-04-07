@@ -15,3 +15,8 @@ As stated above, the main purpose
 Deployment text
 
 ## How To Contribute
+
+
+### Copyright
+
+2016 RL
