@@ -21,4 +21,4 @@ Please fork this repository ant the issue Pull Request for review.
 
 ### Copyright
 
-2016 RL
+2016 RL. All rights reserved.
