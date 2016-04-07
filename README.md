@@ -16,6 +16,7 @@ Deployment text
 
 ## How To Contribute
 
+Please fork this repository ant the issue Pull Request for review.
 
 ### Copyright
 
